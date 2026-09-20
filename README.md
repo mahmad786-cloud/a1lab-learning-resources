@@ -78,32 +78,59 @@ What should I practice?
 How do the concepts connect?
           ↓
 How do I progress toward advanced development?
-
 ---
 
 ## 📚 Learning Resources Directory
 
+<div align="center">
+
 Explore structured programming resources from beginner to advanced level.
 
-| Course | Roadmap | Cheat Sheet | Course Index |
-|---|---|---|---|
-| 🐍 Python | [View Roadmap](roadmaps/python-roadmap.md) | [View Cheat Sheet](cheat-sheets/python-cheat-sheet.md) | [View Course Index](courses/python-course-index.md) |
-| 🗄️ SQL | [View Roadmap](roadmaps/sql-roadmap.md) | [View Cheat Sheet](cheat-sheets/sql-cheat-sheet.md) | [View Course Index](courses/sql-course-index.md) |
-| ⚙️ C++ | [View Roadmap](roadmaps/cpp-roadmap.md) | [View Cheat Sheet](cheat-sheets/cpp-cheat-sheet.md) | [View Course Index](courses/cpp-course-index.md) |
-| 🔵 C | [View Roadmap](roadmaps/c-roadmap.md) | [View Cheat Sheet](cheat-sheets/c-cheat-sheet.md) | [View Course Index](courses/c-course-index.md) |
-| 🟨 JavaScript | [View Roadmap](roadmaps/javascript-roadmap.md) | [View Cheat Sheet](cheat-sheets/javascript-cheat-sheet.md) | [View Course Index](courses/javascript-course-index.md) |
+</div>
+
+---
+
+### 🐍 Python
+
+[![Python Roadmap](https://img.shields.io/badge/Roadmap-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](roadmaps/python-roadmap.md)
+[![Python Cheat Sheet](https://img.shields.io/badge/Cheat_Sheet-Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)](cheat-sheets/python-cheat-sheet.md)
+[![Python Course Index](https://img.shields.io/badge/Course_Index-Python-04AA6D?style=for-the-badge&logo=python&logoColor=white)](courses/python-course-index.md)
+
+### 🗄️ SQL
+
+[![SQL Roadmap](https://img.shields.io/badge/Roadmap-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](roadmaps/sql-roadmap.md)
+[![SQL Cheat Sheet](https://img.shields.io/badge/Cheat_Sheet-SQL-0F766E?style=for-the-badge&logo=database&logoColor=white)](cheat-sheets/sql-cheat-sheet.md)
+[![SQL Course Index](https://img.shields.io/badge/Course_Index-SQL-14B8A6?style=for-the-badge&logo=database&logoColor=white)](courses/sql-course-index.md)
+
+### ⚙️ C++
+
+[![C++ Roadmap](https://img.shields.io/badge/Roadmap-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](roadmaps/cpp-roadmap.md)
+[![C++ Cheat Sheet](https://img.shields.io/badge/Cheat_Sheet-C++-1D4ED8?style=for-the-badge&logo=cplusplus&logoColor=white)](cheat-sheets/cpp-cheat-sheet.md)
+[![C++ Course Index](https://img.shields.io/badge/Course_Index-C++-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white)](courses/cpp-course-index.md)
+
+### 🔵 C
+
+[![C Roadmap](https://img.shields.io/badge/Roadmap-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](roadmaps/c-roadmap.md)
+[![C Cheat Sheet](https://img.shields.io/badge/Cheat_Sheet-C-64748B?style=for-the-badge&logo=c&logoColor=white)](cheat-sheets/c-cheat-sheet.md)
+[![C Course Index](https://img.shields.io/badge/Course_Index-C-0EA5E9?style=for-the-badge&logo=c&logoColor=white)](courses/c-course-index.md)
+
+### 🟨 JavaScript
+
+[![JavaScript Roadmap](https://img.shields.io/badge/Roadmap-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](roadmaps/javascript-roadmap.md)
+[![JavaScript Cheat Sheet](https://img.shields.io/badge/Cheat_Sheet-JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=black)](cheat-sheets/javascript-cheat-sheet.md)
+[![JavaScript Course Index](https://img.shields.io/badge/Course_Index-JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=white)](courses/javascript-course-index.md)
 
 ---
 
 ## 🚀 Start Learning on A1Lab
 
-Choose a course and continue with complete lessons, examples, practice activities, MCQs, and interactive learning on A1Lab.
+Choose a course and continue with full lessons, examples, practice activities, MCQs, and interactive learning.
 
-- [Start Python](https://a1lab.tech/python/introduction)
-- [Start SQL](https://a1lab.tech/sql/introduction)
-- [Start C++](https://a1lab.tech/cpp/introduction)
-- [Start C](https://a1lab.tech/c/introduction)
-- [Start JavaScript](https://a1lab.tech/javascript/introduction)
+[![Start Python](https://img.shields.io/badge/Start-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://a1lab.tech/python/introduction)
+[![Start SQL](https://img.shields.io/badge/Start-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://a1lab.tech/sql/introduction)
+[![Start C++](https://img.shields.io/badge/Start-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://a1lab.tech/cpp/introduction)
+[![Start C](https://img.shields.io/badge/Start-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://a1lab.tech/c/introduction)
+[![Start JavaScript](https://img.shields.io/badge/Start-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://a1lab.tech/javascript/introduction)
 
 ---
 
