@@ -78,3 +78,46 @@ What should I practice?
 How do the concepts connect?
           ↓
 How do I progress toward advanced development?
+
+---
+
+## 📚 Learning Resources Directory
+
+Explore structured programming resources from beginner to advanced level.
+
+| Course | Roadmap | Cheat Sheet | Course Index |
+|---|---|---|---|
+| 🐍 Python | [View Roadmap](roadmaps/python-roadmap.md) | [View Cheat Sheet](cheat-sheets/python-cheat-sheet.md) | [View Course Index](courses/python-course-index.md) |
+| 🗄️ SQL | [View Roadmap](roadmaps/sql-roadmap.md) | [View Cheat Sheet](cheat-sheets/sql-cheat-sheet.md) | [View Course Index](courses/sql-course-index.md) |
+| ⚙️ C++ | [View Roadmap](roadmaps/cpp-roadmap.md) | [View Cheat Sheet](cheat-sheets/cpp-cheat-sheet.md) | [View Course Index](courses/cpp-course-index.md) |
+| 🔵 C | [View Roadmap](roadmaps/c-roadmap.md) | [View Cheat Sheet](cheat-sheets/c-cheat-sheet.md) | [View Course Index](courses/c-course-index.md) |
+| 🟨 JavaScript | [View Roadmap](roadmaps/javascript-roadmap.md) | [View Cheat Sheet](cheat-sheets/javascript-cheat-sheet.md) | [View Course Index](courses/javascript-course-index.md) |
+
+---
+
+## 🚀 Start Learning on A1Lab
+
+Choose a course and continue with complete lessons, examples, practice activities, MCQs, and interactive learning on A1Lab.
+
+- [Start Python](https://a1lab.tech/python/introduction)
+- [Start SQL](https://a1lab.tech/sql/introduction)
+- [Start C++](https://a1lab.tech/cpp/introduction)
+- [Start C](https://a1lab.tech/c/introduction)
+- [Start JavaScript](https://a1lab.tech/javascript/introduction)
+
+---
+
+## 🧭 How These Resources Work
+
+```text
+Roadmap
+   ↓
+Cheat Sheet
+   ↓
+Course Index
+   ↓
+A1Lab Lesson
+   ↓
+Examples + Practice + MCQs
+   ↓
+Interactive Learning
